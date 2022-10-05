@@ -1,5 +1,7 @@
+//CODE BY ALI
 #include <iostream>
 using namespace std;
+//CODE BY ALI
 
 //This function return int type value
 int sum(int k) {

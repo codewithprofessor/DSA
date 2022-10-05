@@ -1,5 +1,7 @@
+//CODE BY ALI
 #include<iostream>
 #include<string>
+//CODE BY ALI
 
 using namespace std;
 //Pass simple datatype like int string value and also pass Array

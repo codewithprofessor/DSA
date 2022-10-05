@@ -1,6 +1,8 @@
+//CODE BY ALI
+
 #include<iostream>
 using namespace std;
-
+//CODE BY ALI
 struct student
 {
     int rollNo;
