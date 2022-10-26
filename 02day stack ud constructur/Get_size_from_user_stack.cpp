@@ -57,7 +57,7 @@ int main()
     object.push(2);
 
     int s;
-    //Pop values from array one by one
+    //Pop values from array one by one;
     s = object.pop();
     cout<<s<<" is pop\n";
     s = object.pop();
