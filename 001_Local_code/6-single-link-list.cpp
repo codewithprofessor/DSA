@@ -144,7 +144,6 @@ class linker
             p = p->next;
         }  
         cout<<p->data<<endl;cout<<"\n\n";
-
     }
 
 };
