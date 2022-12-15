@@ -1,0 +1,2 @@
+
+Double Ended Queue also called dequeue 

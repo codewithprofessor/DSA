@@ -1,0 +1,3 @@
+As we have discussed QUEUE data structure in class and implement
+QUEUE with array, now your task is to implement QUEUE data
+structure using link list.
