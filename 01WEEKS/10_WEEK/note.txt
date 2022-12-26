@@ -1,2 +1,5 @@
 
 Double Ended Queue also called dequeue 
+
+double ended push and pop using the array 
+
