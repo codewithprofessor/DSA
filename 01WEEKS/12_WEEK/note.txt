@@ -1,0 +1,16 @@
+ day 01 monday
+	what is Tree
+	how to define Tree
+	how to create tree
+	how to display tree
+	3 method of traverse the tree	
+		01 inorder
+		02 preOrder
+		03 post order 
+		using of recursive function 
+
+
+day 02 Wednesday
+	Search in Binnary Tree
+	Insert value in Binnary Tree
+	
